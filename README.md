@@ -1,7 +1,8 @@
 Hi there 👋
 
 Most experienced in
-![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)](https://camo.githubusercontent.com/fff292107ed01a9a581645c55d07797ac942f1dbaad5a56b874fe05be228180e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474f444f542d2532334646464646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f646f742d656e67696e65)
 
 
 <!--
