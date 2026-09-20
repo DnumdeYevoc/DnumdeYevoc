@@ -1,12 +1,14 @@
-**Current Project:**
+# Edmund Covey
+
+## Current Project:
 
 Budgeting app using flutter and firebase
 
-**Learning**
+## Learning
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,autocad,cpp,firebase,flutter)](https://skillicons.dev)
 
-**Most Experienced in**
+## Most Experienced in
 
-[![My Skills](https://skillicons.dev/icons?i=godot,blender,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,blender,py,github)](https://skillicons.dev)
 
