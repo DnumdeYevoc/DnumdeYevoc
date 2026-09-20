@@ -15,4 +15,4 @@
 [![My Skills](https://skillicons.dev/icons?i=godot,blender,py,github,obsidian)](https://skillicons.dev)
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DnumdeYevoc&layout=donut&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=DnumdeYevoc&layout=donut&langs_count=4&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DnumdeYevoc&layout=donut&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=DnumdeYevoc&layout=donut&theme=dark_github)
