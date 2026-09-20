@@ -15,7 +15,8 @@ Budgeting app using flutter and firebase
 [![My Skills](https://skillicons.dev/icons?i=godot,blender,py,github)](https://skillicons.dev)
 
 
-[![DnumdeYevoc GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DnumdeYevoc&show_icons=true)](https://github.com/DnumdeYevoc)
+
 
 [![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
