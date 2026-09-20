@@ -1,5 +1,7 @@
 # Edmund Covey
 
+
+
 ## Current Project:
 
 Budgeting app using flutter and firebase
@@ -11,4 +13,8 @@ Budgeting app using flutter and firebase
 ## Most Experienced in
 
 [![My Skills](https://skillicons.dev/icons?i=godot,blender,py,github)](https://skillicons.dev)
+
+
+[![DnumdeYevoc GitHub stats](https://vercel.app)](https://github.com/DnumdeYevoc/github-readme-stats)
+
 
