@@ -4,7 +4,7 @@ Most experienced in
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Godot Engine](https://shields.io)](https://godotengine.org/)
+![Godot Engine](https://shields.io)
 
 
 <!--
