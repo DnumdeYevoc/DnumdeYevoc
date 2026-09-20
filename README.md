@@ -18,5 +18,4 @@ Budgeting app using flutter and firebase
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=DnumdeYevoc)](https://github.com/stats-organization/github-stats-extended)
 
 
-[![Top Langs](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&theme=vue-dark)
