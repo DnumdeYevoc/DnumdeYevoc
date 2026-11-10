@@ -2,7 +2,7 @@
 
 
 
-## Current Project:
+## Latest Project:
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=DnumdeYevoc&repo=DnumdeYevoc%2FCheddar&theme=dark_github_repocard)](https://github.com/DnumdeYevoc/Cheddar)
 
 ## Learning
