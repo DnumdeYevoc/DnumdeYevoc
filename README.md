@@ -8,6 +8,9 @@
 ## Learning
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,autocad,cpp)](https://skillicons.dev)
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/b68496e9-e9dd-481b-bb3f-6b0627f4f3cf" />
+
+
 
 ## Most Experienced in
 
